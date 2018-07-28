@@ -1,0 +1,11 @@
+div {
+    border: 10px solid black;
+    border-radius: 1000px;
+    height: 100px;
+    width: 100px;
+    font-size: 2em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: all 1s ease;
+}
